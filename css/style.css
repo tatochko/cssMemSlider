@@ -3,7 +3,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    font-family: 'Roboto Mono';
+    font-family: 'Montserrat', sans-serif;
     line-height: 1rem;
     font-size: 1rem;
     color: #fff;
